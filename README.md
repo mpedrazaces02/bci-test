@@ -1,5 +1,5 @@
 
-# Prueba Tecnica Nissum
+# Prueba Tecnica Nissum/BCI
 
 This program is in charge of creating users with their respective phones.
 
