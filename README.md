@@ -88,5 +88,5 @@ In the resources package is the class diagram.
 
 ## Authors
 
-- [@mpedraza](https://www.linkedin.com/in/miguel-p-874297b9/)
+- [@mpedraza]
 
